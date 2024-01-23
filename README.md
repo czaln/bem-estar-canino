@@ -1,1 +1,1 @@
-# bem-estar-canino
+# Projeto de site para uma loja fictícia
